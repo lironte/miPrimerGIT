@@ -1,0 +1,27 @@
+.header-nav{
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.navbar {
+    display: flex;
+}
+
+.navbar li {
+    list-style: none;
+}
+
+.logo {
+    width: 5%;
+}
+.nav{
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.button {
+    text-decoration: none;
+}
+
